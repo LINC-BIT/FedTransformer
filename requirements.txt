@@ -1,0 +1,8 @@
+matplotlib==3.2.1
+numpy==1.18.2
+pandas==1.1.5
+setproctitle==1.2.3
+timm==0.5.4
+torch==1.4.0
+torchvision==0.5.0
+vit_pytorch==0.35.8
