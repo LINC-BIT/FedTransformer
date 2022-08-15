@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FedTransformer
 This repo provides an evaluation framework for Federated Learning (FL) using Vision Transformer (ViT) and popular CNN models 
 respectively.      
@@ -62,9 +61,3 @@ python main.py --model 'resnet50' \
                --epochs 1 \
                --gpu 0                           
 ```
-
-## Reference
-<span id=""></span>
-=======
-# FedTransformer
->>>>>>> 97d22614b370b7dc3e693706e4d46f06b9eff55a
